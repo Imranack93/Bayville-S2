@@ -1,0 +1,503 @@
+[14Apr2025 16:27:44.655] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[14Apr2025 16:27:44.658] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[14Apr2025 16:27:44.941] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Apr2025 16:27:44.984] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Bayville-S2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Apr2025 16:27:45.259] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-S2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
+[14Apr2025 16:27:45.260] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-S2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[14Apr2025 16:27:45.262] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-S2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[14Apr2025 16:27:45.263] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Bayville-S2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[14Apr2025 16:27:45.422] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[14Apr2025 16:27:47.233] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Apr2025 16:27:47.360] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[14Apr2025 16:27:47.361] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [mcinterface1201.mixin.MixinConnector]
+[14Apr2025 16:27:47.362] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[14Apr2025 16:27:47.365] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[14Apr2025 16:27:47.463] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 0 override(s) found
+[14Apr2025 16:27:47.465] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[14Apr2025 16:27:47.481] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[14Apr2025 16:27:48.695] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[14Apr2025 16:27:48.696] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[14Apr2025 16:27:48.696] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[14Apr2025 16:27:48.697] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[14Apr2025 16:27:48.697] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[14Apr2025 16:27:48.697] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[14Apr2025 16:27:48.699] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[14Apr2025 16:27:48.700] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[14Apr2025 16:27:48.784] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14Apr2025 16:27:49.412] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (6.824 s after launch)
+[14Apr2025 16:27:49.521] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[14Apr2025 16:27:49.521] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[14Apr2025 16:27:50.943] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1527 milliseconds
+[14Apr2025 16:27:53.776] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
+[14Apr2025 16:27:53.881] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
+[14Apr2025 16:27:54.068] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[14Apr2025 16:27:54.069] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatewalkietalkie_c2s
+[14Apr2025 16:27:54.070] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatespeaker_c2s
+[14Apr2025 16:27:54.072] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:activatekeypressed_c2s
+[14Apr2025 16:27:54.151] [modloading-worker-0/WARN] [com.cupboard.Cupboard/]: Config cupboard.json not found, recreating default
+[14Apr2025 16:27:54.155] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[14Apr2025 16:27:54.156] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[14Apr2025 16:27:54.185] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.12, for MC 1.20.1 with MCP 20230612.114412
+[14Apr2025 16:27:54.188] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.12 Initialized
+[14Apr2025 16:27:54.260] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Welcome to MTS VERSION: 22.17.0
+[14Apr2025 16:27:54.954] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Cannot read field "useVehicleTexture" because "definition.generic" is null
+[14Apr2025 16:27:55.817] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Object doorrright.001 found with no faces defined at line: 9110 in: /assets/svmp/objmodels/vehicles/swiftsedan.obj
+[14Apr2025 16:27:56.337] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Could not do model-based legacy compats on panzerkrieg:sparewheel.  Lights and treads will likely not be present on this model.
+[14Apr2025 16:27:56.337] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Cannot invoke "java.util.List.iterator()" because "definition.parts" is null
+[14Apr2025 16:27:56.522] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: ConfigSystem failed to save modified config files.  Report to the mod author!
+[14Apr2025 16:27:56.523] [modloading-worker-0/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Cannot invoke "java.io.File.toPath()" because "minecrafttransportsimulator.systems.ConfigSystem.clientFile" is null
+[14Apr2025 16:27:57.180] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
+[14Apr2025 16:27:57.587] [main/INFO] [cuffed/]: Registering sound for Cuffed
+[14Apr2025 16:27:58.064] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[14Apr2025 16:27:58.065] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[14Apr2025 16:27:58.587] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
+[14Apr2025 16:27:58.624] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
+[14Apr2025 16:27:58.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Bayville-S2/servidor_minecraft/config/casinocraft-common.toml is not correct. Correcting
+[14Apr2025 16:27:58.875] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:27:58.875] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_creative_token was corrected from null to its default, true. 
+[14Apr2025 16:27:58.876] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_creative_reward was corrected from null to its default, true. 
+[14Apr2025 16:27:58.876] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_creative_oponly was corrected from null to its default, false. 
+[14Apr2025 16:27:58.876] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_timeout was corrected from null to its default, 300. 
+[14Apr2025 16:27:58.879] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Bayville-S2/servidor_minecraft/config/modernfix-common.toml is not correct. Correcting
+[14Apr2025 16:27:58.880] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist_async_jei_plugins was corrected from null to its default, [jepb:jei_plugin]. 
+[14Apr2025 16:27:58.883] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Bayville-S2/servidor_minecraft/config/citadel-common.toml is not correct. Correcting
+[14Apr2025 16:27:58.884] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:27:58.884] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Track Entities was corrected from null to its default, true. 
+[14Apr2025 16:27:58.885] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Skip Datapack Warnings was corrected from null to its default, true. 
+[14Apr2025 16:27:58.886] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.chunkGenSpawnModifier was corrected from null to its default, 1.0. 
+[14Apr2025 16:27:58.886] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.April Fools Content was corrected from null to its default, true. 
+[14Apr2025 16:27:58.889] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Bayville-S2/servidor_minecraft/config/lucky77-common.toml is not correct. Correcting
+[14Apr2025 16:27:58.890] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:27:58.891] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Drowned was corrected from null to its default, false. 
+[14Apr2025 16:27:58.891] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Husk was corrected from null to its default, false. 
+[14Apr2025 16:27:58.891] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Stray was corrected from null to its default, false. 
+[14Apr2025 16:27:58.892] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.CaveSpider was corrected from null to its default, false. 
+[14Apr2025 16:27:58.892] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Creeper was corrected from null to its default, false. 
+[14Apr2025 16:27:58.892] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Enderman was corrected from null to its default, false. 
+[14Apr2025 16:27:58.893] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Giant was corrected from null to its default, false. 
+[14Apr2025 16:27:58.893] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Skeleton was corrected from null to its default, false. 
+[14Apr2025 16:27:58.893] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Spider was corrected from null to its default, false. 
+[14Apr2025 16:27:58.894] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Witch was corrected from null to its default, false. 
+[14Apr2025 16:27:58.894] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Wither was corrected from null to its default, false. 
+[14Apr2025 16:27:58.894] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.WitherSkeleton was corrected from null to its default, false. 
+[14Apr2025 16:27:58.894] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Zombie was corrected from null to its default, false. 
+[14Apr2025 16:27:58.895] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.ZombieVillager was corrected from null to its default, false. 
+[14Apr2025 16:27:58.895] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Evoker was corrected from null to its default, false. 
+[14Apr2025 16:27:58.895] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Illusioner was corrected from null to its default, false. 
+[14Apr2025 16:27:58.895] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Ravager was corrected from null to its default, false. 
+[14Apr2025 16:27:58.896] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Vex was corrected from null to its default, false. 
+[14Apr2025 16:27:58.896] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Vindicator was corrected from null to its default, false. 
+[14Apr2025 16:27:58.899] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Bayville-S2/servidor_minecraft/config/iwannaskate-common.toml is not correct. Correcting
+[14Apr2025 16:27:58.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:27:58.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.spawn_skater_skeletons was corrected from null to its default, true. 
+[14Apr2025 16:27:58.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.skater_skeletons_use_skateboards was corrected from null to its default, true. 
+[14Apr2025 16:27:58.902] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.skater_skeleton_holiday_wheel_drop_chance was corrected from null to its default, 0.25. 
+[14Apr2025 16:27:58.902] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.spawn_wandering_skaters was corrected from null to its default, true. 
+[14Apr2025 16:27:58.903] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.wandering_skater_spawn_delay was corrected from null to its default, 24000. 
+[14Apr2025 16:27:58.903] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.wandering_skater_spawn_chance was corrected from null to its default, 0.05. 
+[14Apr2025 16:27:58.904] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.convert_villagers_to_nitwits was corrected from null to its default, true. 
+[14Apr2025 16:27:58.904] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.convert_nitwits_to_skaters was corrected from null to its default, true. 
+[14Apr2025 16:27:58.906] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key slow-motion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:27:58.907] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key slow-motion.slow_motion was corrected from null to its default, true. 
+[14Apr2025 16:27:58.907] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key slow-motion.players_slow_motion was corrected from null to its default, true. 
+[14Apr2025 16:27:58.909] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key slow-motion.slow_motion_distance was corrected from null to its default, 30. 
+[14Apr2025 16:27:58.909] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key board-customization was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:27:58.910] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key board-customization.skateboard_exp_anvil_rate_modifier was corrected from null to its default, 0.75. 
+[14Apr2025 16:27:59.062] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
+[14Apr2025 16:27:59.065] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[14Apr2025 16:27:59.141] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[14Apr2025 16:27:59.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 2 plugin(s)
+[14Apr2025 16:27:59.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[14Apr2025 16:27:59.160] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 2 plugin(s)
+[14Apr2025 16:27:59.161] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'cuffed'
+[14Apr2025 16:27:59.166] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'walkietalkie'
+[14Apr2025 16:27:59.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[14Apr2025 16:27:59.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.29 Target: null
+[14Apr2025 16:27:59.699] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[14Apr2025 16:27:59.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[14Apr2025 16:27:59.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Apr2025 16:27:59.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.12 Target: 47.4.0
+[14Apr2025 16:28:00.610] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[14Apr2025 16:28:00.620] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Apr2025 16:28:00.920] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bayville-S2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[14Apr2025 16:28:00.920] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Bayville-S2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[14Apr2025 16:28:02.119] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag cuffed:can_reinforce_padlock as it is missing following references: minecraft:diamond_ingot (from Cuffed-1.20.1-1.3.7.jar)
+[14Apr2025 16:28:02.161] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:high_skate_quality as it is missing following references: #minecraft:stone_stairs (from iwannaskate-1.2.0.jar), 
+	#minecraft:stone_slab (from iwannaskate-1.2.0.jar)
+[14Apr2025 16:28:02.162] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fences as it is missing following references: football:goal_post (from basketball-1.2-forge-1.20.1.jar)
+[14Apr2025 16:28:02.163] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mineable/shovel as it is missing following references: football:black_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:red_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:green_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:brown_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:blue_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:purple_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:cyan_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:light_gray_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:gray_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:pink_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:lime_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:magenta_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:light_blue_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:orange_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:white_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:turf (from basketball-1.2-forge-1.20.1.jar)
+[14Apr2025 16:28:02.163] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/bayville.zip)
+[14Apr2025 16:28:02.164] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:needs_iron_tool as it is missing following references: football:goal_post (from basketball-1.2-forge-1.20.1.jar)
+[14Apr2025 16:28:02.167] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:spawns_skater_skeletons as it is missing following references: #iwannaskate:high_skate_quality (from iwannaskate-1.2.0.jar)
+[14Apr2025 16:28:02.168] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:grinds as it is missing following references: #minecraft:fences (from iwannaskate-1.2.0.jar)
+[14Apr2025 16:28:02.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+[14Apr2025 16:28:02.687] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[14Apr2025 16:28:02.792] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1342 advancements
+[14Apr2025 16:28:02.842] [main/INFO] [com.github.alexthe668.iwannaskate.IWannaSkateMod/]: reloading skateboard materials
+[14Apr2025 16:28:02.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Apr2025 16:28:02.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Apr2025 16:28:02.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Apr2025 16:28:02.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Apr2025 16:28:03.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Apr2025 16:28:03.109] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Apr2025 16:28:03.198] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Apr2025 16:28:03.199] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Apr2025 16:28:03.199] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Apr2025 16:28:03.199] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Apr2025 16:28:03.217] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
+[14Apr2025 16:28:03.218] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.218] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Maximum Keys Per Ring was corrected from null to its default, 16. 
+[14Apr2025 16:28:03.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Safes Slots was corrected from null to its default, 36. 
+[14Apr2025 16:28:03.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Require Low Health To Restrain was corrected from null to its default, false. 
+[14Apr2025 16:28:03.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Allow breaking out of the pillory was corrected from null to its default, true. 
+[14Apr2025 16:28:03.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.220] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Only Restrained Players Can Be Restrained was corrected from null to its default, false. 
+[14Apr2025 16:28:03.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from null to its default, 5.0. 
+[14Apr2025 16:28:03.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from null to its default, 12.0. 
+[14Apr2025 16:28:03.221] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Allow Anchoring To Fences was corrected from null to its default, true. 
+[14Apr2025 16:28:03.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Allow Anchoring To Tripwire Hook was corrected from null to its default, true. 
+[14Apr2025 16:28:03.223] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Allow Anchoring To Weighted Anchors was corrected from null to its default, true. 
+[14Apr2025 16:28:03.223] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Nickname Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Nickname Settings.Nickname Persists On Death was corrected from null to its default, true. 
+[14Apr2025 16:28:03.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Nickname Settings.Nickname Persists On Logout was corrected from null to its default, true. 
+[14Apr2025 16:28:03.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Progress Per Pick For Breaking Padlocks was corrected from null to its default, 8. 
+[14Apr2025 16:28:03.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Speed Increase Per Pick For Breaking Padlocks was corrected from null to its default, 10. 
+[14Apr2025 16:28:03.225] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Progress Per Pick For Breaking Reinforced Padlocks was corrected from null to its default, 6. 
+[14Apr2025 16:28:03.225] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Speed Increase Per Pick For Breaking Reinforced Padlocks was corrected from null to its default, 13. 
+[14Apr2025 16:28:03.225] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Progress Per Pick For Breaking Cell Doors was corrected from null to its default, 6. 
+[14Apr2025 16:28:03.226] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Speed Increase Per Pick For Breaking Cell Doors was corrected from null to its default, 14. 
+[14Apr2025 16:28:03.226] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Progress Per Pick For Breaking Safes was corrected from null to its default, 3. 
+[14Apr2025 16:28:03.226] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Lockpicking Settings.Speed Increase Per Pick For Breaking Safes was corrected from null to its default, 10. 
+[14Apr2025 16:28:03.227] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Restraint Durabilities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.227] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Restraint Durabilities.Handcuffs Durability was corrected from null to its default, 40. 
+[14Apr2025 16:28:03.227] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Restraint Durabilities.Fuzzy Handcuffs Durability was corrected from null to its default, 30. 
+[14Apr2025 16:28:03.227] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Restraint Durabilities.Shackles Durability was corrected from null to its default, 15. 
+[14Apr2025 16:28:03.228] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Arms was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.228] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Arms.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.228] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Arms.Drop Item When Broken was corrected from null to its default, false. 
+[14Apr2025 16:28:03.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Arms.Lockpickable was corrected from null to its default, true. 
+[14Apr2025 16:28:03.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Arms.Lockpicking Progresss Per Pick was corrected from null to its default, 6. 
+[14Apr2025 16:28:03.230] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Arms.Lockpicking Speed Increase Per Pick was corrected from null to its default, 12. 
+[14Apr2025 16:28:03.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Fuzzy Handcuffs when on Arms was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Fuzzy Handcuffs when on Arms.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Fuzzy Handcuffs when on Arms.Drop Item When Broken was corrected from null to its default, false. 
+[14Apr2025 16:28:03.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Fuzzy Handcuffs when on Arms.Lockpickable was corrected from null to its default, true. 
+[14Apr2025 16:28:03.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Fuzzy Handcuffs when on Arms.Lockpicking Progresss Per Pick was corrected from null to its default, 6. 
+[14Apr2025 16:28:03.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Fuzzy Handcuffs when on Arms.Lockpicking Speed Increase Per Pick was corrected from null to its default, 14. 
+[14Apr2025 16:28:03.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Arms was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Arms.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Arms.Drop Item When Broken was corrected from null to its default, false. 
+[14Apr2025 16:28:03.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Arms.Lockpickable was corrected from null to its default, true. 
+[14Apr2025 16:28:03.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Arms.Lockpicking Progresss Per Pick was corrected from null to its default, 8. 
+[14Apr2025 16:28:03.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Arms.Lockpicking Speed Increase Per Pick was corrected from null to its default, 10. 
+[14Apr2025 16:28:03.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Arms was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Arms.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Arms.Drop Item When Broken was corrected from null to its default, true. 
+[14Apr2025 16:28:03.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Arms.Durability was corrected from null to its default, 5. 
+[14Apr2025 16:28:03.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Legs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Legs.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.239] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Legs.Drop Item When Broken was corrected from null to its default, false. 
+[14Apr2025 16:28:03.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Legs.Lockpickable was corrected from null to its default, true. 
+[14Apr2025 16:28:03.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Legs.Lockpicking Progresss Per Pick was corrected from null to its default, 6. 
+[14Apr2025 16:28:03.240] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Handcuffs when on Legs.Lockpicking Speed Increase Per Pick was corrected from null to its default, 12. 
+[14Apr2025 16:28:03.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Legs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Legs.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Legs.Drop Item When Broken was corrected from null to its default, false. 
+[14Apr2025 16:28:03.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Legs.Lockpickable was corrected from null to its default, true. 
+[14Apr2025 16:28:03.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Legs.Lockpicking Progresss Per Pick was corrected from null to its default, 8. 
+[14Apr2025 16:28:03.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Shackles when on Legs.Lockpicking Speed Increase Per Pick was corrected from null to its default, 10. 
+[14Apr2025 16:28:03.243] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Legs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.243] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Legs.Can Be Broken Out Of was corrected from null to its default, true. 
+[14Apr2025 16:28:03.244] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Legs.Drop Item When Broken was corrected from null to its default, true. 
+[14Apr2025 16:28:03.244] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Duck Tape when on Legs.Durability was corrected from null to its default, 5. 
+[14Apr2025 16:28:03.247] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/camera-server.toml is not correct. Correcting
+[14Apr2025 16:28:03.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key camera was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.249] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key camera.cooldown was corrected from null to its default, 5000. 
+[14Apr2025 16:28:03.250] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key camera.consumed_item was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.250] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key camera.consumed_item.amount was corrected from null to its default, 1. 
+[14Apr2025 16:28:03.251] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key image was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key image.max_size was corrected from null to its default, 200000. 
+[14Apr2025 16:28:03.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key image.compression was corrected from null to its default, 0.5. 
+[14Apr2025 16:28:03.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key image.allow_upload was corrected from null to its default, true. 
+[14Apr2025 16:28:03.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key image_frame was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key image_frame.only_owner_modify was corrected from null to its default, false. 
+[14Apr2025 16:28:03.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_data was corrected from null to its default, SimpleCommentedConfig:{}. 
+[14Apr2025 16:28:03.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_data.enable was corrected from null to its default, false. 
+[14Apr2025 16:28:03.255] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advanced_data.max_entities was corrected from null to its default, 16. 
+[14Apr2025 16:28:03.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Apr2025 16:28:03.679] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence salt
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Apr2025 16:28:03.680] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence include_sequence_id
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Apr2025 16:28:03.681] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence sequences
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Apr2025 16:28:03.683] [Server thread/ERROR] [net.minecraft.world.RandomSequences/]: Failed to load random sequence include_world_seed
+java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Optional.java:143) ~[?:?]
+	at net.minecraft.world.RandomSequences.m_287187_(RandomSequences.java:103) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_287052_(ServerLevel.java:239) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164868_(DimensionDataStorage.java:70) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164858_(DimensionDataStorage.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.level.storage.DimensionDataStorage.m_164861_(DimensionDataStorage.java:39) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_288114_(ServerLevel.java:238) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.util.Objects.requireNonNullElseGet(Objects.java:310) ~[?:?]
+	at net.minecraft.server.level.ServerLevel.<init>(ServerLevel.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129815_(MinecraftServer.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130006_(MinecraftServer.java:308) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Apr2025 16:28:03.708] [Server thread/INFO] [voicechat/]: [voicechat] Successfully migrated config voicechat-server.toml
+[14Apr2025 16:28:03.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Apr2025 16:28:05.085] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 16:28:05.086] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 16:28:05.086] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 16:28:05.245] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 16:28:05.744] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Apr2025 16:28:06.613] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2870 ms
+[14Apr2025 16:28:06.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.401s)! For help, type "help"
+[14Apr2025 16:28:06.642] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
+[14Apr2025 16:28:06.643] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[14Apr2025 16:28:06.644] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[14Apr2025 16:28:06.644] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[14Apr2025 16:28:06.645] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[14Apr2025 16:28:06.645] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[14Apr2025 16:28:06.645] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[14Apr2025 16:28:06.646] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[14Apr2025 16:28:06.646] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[14Apr2025 16:28:06.647] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[14Apr2025 16:28:06.647] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[14Apr2025 16:28:06.647] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[14Apr2025 16:28:06.648] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[14Apr2025 16:28:06.649] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[14Apr2025 16:28:06.649] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[14Apr2025 16:28:06.649] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[14Apr2025 16:28:06.650] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[14Apr2025 16:28:06.650] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[14Apr2025 16:28:06.651] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[14Apr2025 16:28:06.651] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[14Apr2025 16:28:06.651] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[14Apr2025 16:28:06.652] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[14Apr2025 16:28:06.652] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[14Apr2025 16:28:06.653] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[14Apr2025 16:28:06.653] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[14Apr2025 16:28:06.653] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[14Apr2025 16:28:06.654] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[14Apr2025 16:28:06.654] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[14Apr2025 16:28:06.655] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[14Apr2025 16:28:06.655] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[14Apr2025 16:28:06.656] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[14Apr2025 16:28:06.656] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Apr2025 16:28:06.657] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
+[14Apr2025 16:28:06.658] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[14Apr2025 16:28:06.660] [Server thread/INFO] [Chunk Pregenerator/]: Upgraded Server Watchdog time from 1 Minute to 10 Minutes to ensure Heavy ModPacks do not crash due to lag
+[14Apr2025 16:28:06.721] [Server thread/WARN] [com.cupboard.Cupboard/]: Config betterfpsdist.json not found, recreating default
+[14Apr2025 16:28:06.723] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[14Apr2025 16:28:06.724] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[14Apr2025 16:28:06.734] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[14Apr2025 16:28:06.807] [Server thread/WARN] [ModernFix/]: Dedicated server took 24.219 seconds to load
+[14Apr2025 16:28:19.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.48.52.228:42921] logged in with entity id 205 at (-34.5, 13.0, 194.5)
+[14Apr2025 16:28:19.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[14Apr2025 16:28:21.076] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[14Apr2025 16:28:21.078] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[14Apr2025 16:28:24.217] [Server thread/ERROR] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Expected id to be a string, was an array ([-38...54]); Input is not a list of 4 elements
+[14Apr2025 16:28:26.619] [Server thread/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: ConfigSystem failed to save modified config files.  Report to the mod author!
+[14Apr2025 16:28:26.619] [Server thread/ERROR] [mcinterface1201.InterfaceLoader/]: MTSERROR: Cannot invoke "java.io.File.toPath()" because "minecrafttransportsimulator.systems.ConfigSystem.clientFile" is null
+[14Apr2025 16:30:30.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Imranack a server operator
+[14Apr2025 16:30:37.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reloading!]
+[14Apr2025 16:30:37.256] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag cuffed:can_reinforce_padlock as it is missing following references: minecraft:diamond_ingot (from Cuffed-1.20.1-1.3.7.jar)
+[14Apr2025 16:30:37.275] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:high_skate_quality as it is missing following references: #minecraft:stone_stairs (from iwannaskate-1.2.0.jar), 
+	#minecraft:stone_slab (from iwannaskate-1.2.0.jar)
+[14Apr2025 16:30:37.277] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fences as it is missing following references: football:goal_post (from basketball-1.2-forge-1.20.1.jar)
+[14Apr2025 16:30:37.278] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mineable/shovel as it is missing following references: football:black_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:red_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:green_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:brown_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:blue_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:purple_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:cyan_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:light_gray_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:gray_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:pink_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:lime_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:magenta_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:light_blue_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:orange_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:white_turf (from basketball-1.2-forge-1.20.1.jar), 
+	football:turf (from basketball-1.2-forge-1.20.1.jar)
+[14Apr2025 16:30:37.280] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/bayville.zip)
+[14Apr2025 16:30:37.282] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:needs_iron_tool as it is missing following references: football:goal_post (from basketball-1.2-forge-1.20.1.jar)
+[14Apr2025 16:30:37.283] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:spawns_skater_skeletons as it is missing following references: #iwannaskate:high_skate_quality (from iwannaskate-1.2.0.jar)
+[14Apr2025 16:30:37.284] [Worker-ResourceReload-0/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag iwannaskate:grinds as it is missing following references: #minecraft:fences (from iwannaskate-1.2.0.jar)
+[14Apr2025 16:30:37.475] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+[14Apr2025 16:30:37.484] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[14Apr2025 16:30:37.517] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1342 advancements
+[14Apr2025 16:30:37.541] [Server thread/INFO] [com.github.alexthe668.iwannaskate.IWannaSkateMod/]: reloading skateboard materials
+[14Apr2025 16:30:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Apr2025 16:32:30.712] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:32:51.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Added tag 'admin' to Imranack]
+[14Apr2025 16:34:54.211] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.311] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.314] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.409] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.410] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.411] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.412] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.412] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.413] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.414] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.414] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.415] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.415] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.523] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.523] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.610] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.611] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.611] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.612] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.613] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.615] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.615] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.616] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.616] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.617] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.617] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.618] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.619] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.620] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.622] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.623] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.623] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.624] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.625] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:34:54.625] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:35:01.660] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:35:16.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 2.6154146880432165,0.7349679851546291,-9.947132163699536
+[14Apr2025 16:35:35.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[14Apr2025 16:35:46.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -2.4219228863811537,0.0,10.54321623799865
+[14Apr2025 16:36:17.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 9.275617569460856,3.396500630842553,2.5658631655042257
+[14Apr2025 16:36:41.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/690, l='ServerLevel[Bayville v9.0]', x=48.50, y=13.00, z=274.50] died, message: 'Weaponsmith was killed'
+[14Apr2025 16:36:41.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/706, l='ServerLevel[Bayville v9.0]', x=46.50, y=12.90, z=262.50] died, message: 'Cartographer was killed'
+[14Apr2025 16:36:45.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -7.438811715803894,0.0037156611747306556,7.861592403640543
+[14Apr2025 16:37:00.210] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[14Apr2025 16:37:43.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Let's Roll]
+[14Apr2025 16:37:49.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/803, l='ServerLevel[Bayville v9.0]', x=48.50, y=13.00, z=274.50] died, message: 'Weaponsmith was killed'
+[14Apr2025 16:37:49.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/819, l='ServerLevel[Bayville v9.0]', x=46.50, y=12.90, z=262.50] died, message: 'Cartographer was killed'
+[14Apr2025 16:39:45.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -9.004874911092713,2.078246482582088,5.094149091297993
+[14Apr2025 16:40:15.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 10.103030159872533,0.0,3.758570584649931
+[14Apr2025 16:40:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Poor Decision-Making Skills]
+[14Apr2025 16:40:45.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -1.9919657150399068,0.17786409621847454,-10.375073306718491
+[14Apr2025 16:43:18.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 10.121594705404735,0.0,0.3259820093173005
+[14Apr2025 16:43:24.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1104, l='ServerLevel[Bayville v9.0]', x=46.22, y=13.00, z=136.52] died, message: 'Armorer was killed'
+[14Apr2025 16:43:24.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1106, l='ServerLevel[Bayville v9.0]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[14Apr2025 16:45:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Deck Tech]
+[14Apr2025 16:45:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Ride in Style]
+[14Apr2025 16:45:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [I Wanna Skate]
+[14Apr2025 16:46:49.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2, l='ServerLevel[Bayville v9.0]', x=-7.51, y=3.00, z=160.60] died, message: 'Villager was killed'
+[14Apr2025 16:46:49.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19, l='ServerLevel[Bayville v9.0]', x=-15.26, y=3.00, z=157.50] died, message: 'Villager was killed'
+[14Apr2025 16:46:49.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20, l='ServerLevel[Bayville v9.0]', x=4.92, y=3.00, z=167.30] died, message: 'Villager was killed'
+[14Apr2025 16:46:49.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21, l='ServerLevel[Bayville v9.0]', x=4.30, y=3.00, z=166.88] died, message: 'Villager was killed'
+[14Apr2025 16:47:24.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Teenage Dirtbag]
+[14Apr2025 16:47:47.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -9.864478320955712,-2.5994907673328775,-0.8941915049590534
+[14Apr2025 16:49:47.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has completed the challenge [Ultimate Communication]
+[14Apr2025 16:50:47.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 10.361890710138447,0.0,-1.6164758339953096
+[14Apr2025 16:51:48.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1465, l='ServerLevel[Bayville v9.0]', x=48.50, y=13.00, z=274.50] died, message: 'Weaponsmith was killed'
+[14Apr2025 16:51:48.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1481, l='ServerLevel[Bayville v9.0]', x=46.50, y=12.90, z=262.50] died, message: 'Cartographer was killed'
+[14Apr2025 16:54:17.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -2.0034376156000135,0.0,-10.47165263044775
+[14Apr2025 16:56:47.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! 9.972686611239276,0.7489097213781974,-1.3572910093746202
+[14Apr2025 17:08:18.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -9.915686137019748,-1.3594033581038794,-1.3138408589710195
+[14Apr2025 17:10:48.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -0.874193670567692,4.787591164883057,9.305050898457672
+[14Apr2025 17:13:24.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -1.471895202058306,3.2547245693951297,9.509594206051919
+[14Apr2025 17:13:47.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/2006, l='ServerLevel[Bayville v9.0]', x=-41.50, y=14.00, z=120.50] died, message: 'Toolsmith was killed'
+[14Apr2025 17:14:19.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -9.32150596405667,1.1661092609382155,3.9020538370348845
+[14Apr2025 17:15:02.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[14Apr2025 17:15:02.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[14Apr2025 17:15:02.227] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
+[14Apr2025 17:15:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Apr2025 17:15:15.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Apr2025 17:15:15.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Apr2025 17:15:15.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Apr2025 17:15:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bayville v9.0]'/minecraft:overworld
+[14Apr2025 17:15:15.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bayville v9.0]'/minecraft:the_nether
+[14Apr2025 17:15:15.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bayville v9.0]'/minecraft:the_end
+[14Apr2025 17:15:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Apr2025 17:15:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Apr2025 17:15:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Apr2025 17:15:15.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
