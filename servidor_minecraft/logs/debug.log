@@ -3670,3 +3670,301 @@ Missing minecraft:entity_type:
 [15Apr2025 19:10:43.352] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
 [15Apr2025 19:10:51.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
 [15Apr2025 19:10:51.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0
+[15Apr2025 19:11:03.351] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:03.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:11:03.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:11:03.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:11:03.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:11:03.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:11:03.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:11:03.371] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:03.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:11:04.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:11:04.451] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:04.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:11:04.503] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:41.602] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:41.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:11:41.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:11:41.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:11:41.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:11:41.628] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:11:41.628] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:11:41.629] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:41.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:11:42.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:11:42.738] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:11:42.738] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:11:42.757] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:02.750] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:02.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:12:02.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:12:02.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:12:02.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:12:02.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:12:02.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:12:02.775] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:02.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:12:03.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:12:03.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:03.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:12:03.869] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:43.028] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:43.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:12:43.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:12:43.067] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:12:43.067] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:12:43.067] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:12:43.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:12:43.068] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:43.131] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:12:44.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:12:44.133] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:12:44.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:12:44.152] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:04.161] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:04.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:13:04.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:13:04.205] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:13:04.206] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:13:04.206] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:13:04.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:13:04.206] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:04.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:13:05.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:13:05.238] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:05.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:13:05.277] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:43.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:13:43.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:13:43.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:13:43.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:13:43.462] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:13:43.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:13:43.463] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:43.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:13:44.312] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:44.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:13:44.519] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:13:44.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:13:44.551] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:04.565] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:04.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:14:04.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:14:04.603] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:14:04.603] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:14:04.603] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:14:04.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:14:04.604] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:04.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:14:05.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:14:05.633] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:05.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:14:05.656] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:43.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:14:43.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:14:43.871] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:14:43.871] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:14:43.871] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:14:43.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:14:43.871] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:44.182] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:14:44.704] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:45.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:14:45.160] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:14:45.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:14:45.180] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:04.958] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:05.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:15:05.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:15:05.010] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:15:05.010] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:15:05.010] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:15:05.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:15:05.011] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:06.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:15:07.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:15:07.052] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:07.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:15:07.074] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:44.250] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:44.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:15:44.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:15:44.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:15:44.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:15:44.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:15:44.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:15:44.286] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:44.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:15:45.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:15:45.358] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:45.358] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:15:45.400] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:15:51.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
+[15Apr2025 19:15:51.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0
+[15Apr2025 19:16:05.369] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:05.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:16:05.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:16:05.412] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:16:05.412] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:16:05.412] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:16:05.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:16:05.413] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:06.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:16:07.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:16:07.514] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:07.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:16:07.536] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:44.635] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:44.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:16:44.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:16:44.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:16:44.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:16:44.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:16:44.666] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:16:44.666] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:44.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:16:45.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:16:45.722] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:16:45.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:16:45.751] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:06.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:17:06.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:17:06.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:17:06.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:17:06.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:17:06.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:17:06.808] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:19.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:17:19.732] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:20.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:17:20.250] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:20.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:17:20.301] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:44.061] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:17:44.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:17:44.062] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:17:44.062] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:17:44.062] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:17:44.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:17:44.062] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:44.116] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:17:44.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:17:44.294] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[15Apr2025 19:18:01.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:18:01.156] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:18:01.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:18:01.177] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:18:49.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:18:49.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:18:49.491] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:18:49.491] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:18:49.491] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:18:49.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:18:49.491] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:18:50.076] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:18:50.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:18:50.975] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:18:50.976] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:18:50.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:18:51.234] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:08.582] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:08.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:19:08.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:19:08.620] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:19:08.620] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:19:08.621] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:19:08.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:19:08.621] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:08.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:19:09.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:19:09.704] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:09.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:19:09.727] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:49.903] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:49.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:19:49.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:19:49.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:19:49.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:19:49.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:19:49.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:19:49.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:50.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:19:51.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:19:51.004] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:19:51.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:19:51.024] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:09.006] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:09.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:20:09.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:20:09.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:20:09.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:20:09.046] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:20:09.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:20:09.047] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:09.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:20:10.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:20:10.103] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:10.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:20:10.125] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:50.301] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:20:50.331] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:50.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:20:51.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:20:51.411] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:51.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:20:51.433] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:20:51.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
+[15Apr2025 19:20:51.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:21:10.461] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:10.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:10.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:21:11.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:21:11.521] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:11.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:21:11.551] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:51.703] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:51.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 19:21:51.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 19:21:51.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 19:21:51.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 19:21:51.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 19:21:51.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 19:21:51.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:51.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:21:52.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 19:21:52.806] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:21:52.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 19:21:52.827] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 19:22:02.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[15Apr2025 19:22:02.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[15Apr2025 19:22:02.351] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Imranack
+[15Apr2025 19:22:02.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
+[15Apr2025 19:22:02.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1179, l='ServerLevel[Bayville v9.0]', x=48.50, y=13.00, z=274.50] died, message: 'Weaponsmith was killed'
+[15Apr2025 19:22:02.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/1195, l='ServerLevel[Bayville v9.0]', x=46.50, y=12.90, z=262.50] died, message: 'Cartographer was killed'
+[15Apr2025 19:22:07.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Apr2025 19:22:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Apr2025 19:22:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Apr2025 19:22:07.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Apr2025 19:22:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bayville v9.0]'/minecraft:overworld
+[15Apr2025 19:22:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bayville v9.0]'/minecraft:the_end
+[15Apr2025 19:22:08.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Bayville v9.0]'/minecraft:the_nether
+[15Apr2025 19:22:08.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
+[15Apr2025 19:22:08.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0
+[15Apr2025 19:22:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Apr2025 19:22:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Apr2025 19:22:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Apr2025 19:22:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Apr2025 19:22:08.304] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
