@@ -2654,3 +2654,421 @@ Missing minecraft:entity_type:
 [15Apr2025 18:40:25.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
 [15Apr2025 18:40:25.535] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
 [15Apr2025 18:40:25.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:40:46.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:40:46.668] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:40:46.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:40:46.704] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:40:51.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
+[15Apr2025 18:40:51.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0
+[15Apr2025 18:41:25.905] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:25.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:41:25.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:41:25.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:41:25.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:41:25.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:41:25.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:41:25.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:26.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:27.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:27.013] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:27.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:41:27.033] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:30.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notch lost connection: Disconnected
+[15Apr2025 18:41:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notch left the game
+[15Apr2025 18:41:30.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Notch
+[15Apr2025 18:41:30.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Notch
+[15Apr2025 18:41:31.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/636, l='ServerLevel[Bayville v9.0]', x=-118.50, y=15.00, z=51.50] died, message: 'Villager was killed'
+[15Apr2025 18:41:31.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/638, l='ServerLevel[Bayville v9.0]', x=-125.50, y=20.00, z=37.50] died, message: 'Villager was killed'
+[15Apr2025 18:41:47.038] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:47.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:41:47.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:41:47.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:41:47.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:41:47.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:41:47.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:41:47.088] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:47.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:48.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:48.143] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:41:48.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:41:48.171] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:27.335] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:42:27.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:42:27.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:27.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:42:28.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:42:28.512] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:28.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:42:28.531] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:47.472] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:47.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:42:47.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:22.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:22.743] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:43:22.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:43:22.762] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:43:26.246] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 27 messages to dispatch.
+[15Apr2025 18:43:26.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[15Apr2025 18:43:26.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[15Apr2025 18:43:26.319] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[15Apr2025 18:43:26.319] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[15Apr2025 18:43:26.319] [Netty Epoll Server IO #4/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[15Apr2025 18:43:26.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[15Apr2025 18:43:26.400] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, cuffed, justoutdoorstuffs, voicechat, simpleshops, geckolib, casinochips, playeranimator, tacz, basketball, gamingfurniture, casinocraft, betterfpsdist, musicplayer, modernfurniture, camera, modernfix, citadel, inv_view_forge, entityculling, mixinextras, soccermod, chunkpregen, lucky77, customnpcs, uteamcore, architectury, walkietalkie, ferritecore, the_dirty_stuff, mts, cupboard, boxing_madness, svmp, vehiclesofsurvival, ccynho, panzerkrieg, forge, iwannaskate, phonescraft, lazrslib, emotecraft, carbonconfig]
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chunkpregen:networking' : Version test of 'default' from client : ACCEPTED
+[15Apr2025 18:43:26.406] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'basketball:basketball' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.4' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinocraft:main' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carbonconfig:networking' : Version test of '1.0.0' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mts:main' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'CNPCS' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamingfurniture:gamingfurniture' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dirty_stuff:the_dirty_stuff' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iwannaskate:main_channel' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinochips:casinochips' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'phonescraft:phonescraft' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boxing_madness:boxing_madness' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.407] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.4' from client : ACCEPTED
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfurniture:modernfurniture' : Version test of '1' from client : ACCEPTED
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[15Apr2025 18:43:26.408] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[15Apr2025 18:43:26.447] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[15Apr2025 18:43:26.447] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.447] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.450] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[15Apr2025 18:43:26.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[15Apr2025 18:43:26.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.489] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[15Apr2025 18:43:26.554] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[15Apr2025 18:43:26.613] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[15Apr2025 18:43:26.652] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[15Apr2025 18:43:26.701] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[15Apr2025 18:43:26.726] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[15Apr2025 18:43:26.726] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.726] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.752] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[15Apr2025 18:43:26.752] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[15Apr2025 18:43:26.752] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.753] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.753] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[15Apr2025 18:43:26.753] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.753] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.803] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[15Apr2025 18:43:26.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[15Apr2025 18:43:26.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[15Apr2025 18:43:26.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.849] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[15Apr2025 18:43:26.869] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[15Apr2025 18:43:26.869] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.869] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.869] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[15Apr2025 18:43:26.869] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.869] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[15Apr2025 18:43:26.901] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[15Apr2025 18:43:26.901] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.901] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.942] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[15Apr2025 18:43:26.942] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:26.942] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:26.950] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[15Apr2025 18:43:27.001] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 15
+[15Apr2025 18:43:27.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[15Apr2025 18:43:27.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[15Apr2025 18:43:27.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.069] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[15Apr2025 18:43:27.109] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[15Apr2025 18:43:27.109] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.109] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[15Apr2025 18:43:27.149] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[15Apr2025 18:43:27.150] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.150] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.150] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[15Apr2025 18:43:27.150] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.150] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.190] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[15Apr2025 18:43:27.190] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.190] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[15Apr2025 18:43:27.229] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[15Apr2025 18:43:27.229] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.229] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[15Apr2025 18:43:27.289] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[15Apr2025 18:43:27.289] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.289] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[15Apr2025 18:43:27.339] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[15Apr2025 18:43:27.339] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:27.339] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:27.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[15Apr2025 18:43:27.401] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 23
+[15Apr2025 18:43:27.451] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 24
+[15Apr2025 18:43:27.503] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 25
+[15Apr2025 18:43:27.552] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 26
+[15Apr2025 18:43:28.329] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[15Apr2025 18:43:28.329] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:28.329] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:28.369] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[15Apr2025 18:43:28.369] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:28.369] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:28.429] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[15Apr2025 18:43:28.429] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:28.429] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:28.449] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[15Apr2025 18:43:28.449] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:28.449] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:28.473] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[15Apr2025 18:43:28.473] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Apr2025 18:43:28.473] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Apr2025 18:43:28.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[15Apr2025 18:43:28.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notch[/127.211.233.109:57835] logged in with entity id 699 at (-136.79661234075704, 15.0, 69.05296458502458)
+[15Apr2025 18:43:28.560] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4e3b2e1a into net.minecraft.network.Connection@24031e3e
+[15Apr2025 18:43:28.560] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 70 classes
+[15Apr2025 18:43:28.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notch joined the game
+[15Apr2025 18:43:28.598] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Notch: {disabled=false, disconnected=true, uuid=b50ad385-829d-3141-a216-7e7d7539ba7f, name=Notch, group=null}
+[15Apr2025 18:43:29.839] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744742609839
+[15Apr2025 18:43:30.906] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: b50ad385-829d-3141-a216-7e7d7539ba7f data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[15Apr2025 18:43:30.907] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Notch (18)
+[15Apr2025 18:43:30.907] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Notch
+[15Apr2025 18:43:30.907] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Notch
+[15Apr2025 18:43:30.907] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Notch
+[15Apr2025 18:43:30.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Notch
+[15Apr2025 18:43:36.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b50ad385-829d-3141-a216-7e7d7539ba7f
+[15Apr2025 18:43:37.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b50ad385-829d-3141-a216-7e7d7539ba7f
+[15Apr2025 18:43:37.860] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Notch to connected: {disabled=false, disconnected=false, uuid=b50ad385-829d-3141-a216-7e7d7539ba7f, name=Notch, group=null}
+[15Apr2025 18:43:37.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Notch (b50ad385-829d-3141-a216-7e7d7539ba7f) successfully connected to voice chat
+[15Apr2025 18:43:37.907] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Notch: {disabled=false, disconnected=false, uuid=b50ad385-829d-3141-a216-7e7d7539ba7f, name=Notch, group=null}
+[15Apr2025 18:43:48.754] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:43:48.769] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Notch: {disabled=false, disconnected=false, uuid=b50ad385-829d-3141-a216-7e7d7539ba7f, name=Notch, group=null}
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b50ad385-829d-3141-a216-7e7d7539ba7f timed out
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Notch
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Notch
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Notch
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Notch
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Notch
+[15Apr2025 18:43:48.804] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of b50ad385-829d-3141-a216-7e7d7539ba7f to disconnected: {disabled=false, disconnected=true, uuid=b50ad385-829d-3141-a216-7e7d7539ba7f, name=Notch, group=null}
+[15Apr2025 18:43:48.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:48.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Notch: {disabled=false, disconnected=true, uuid=b50ad385-829d-3141-a216-7e7d7539ba7f, name=Notch, group=null}
+[15Apr2025 18:43:49.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b50ad385-829d-3141-a216-7e7d7539ba7f
+[15Apr2025 18:43:49.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:49.859] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:43:49.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:43:49.902] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:44:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo has made the advancement [Let's Roll]
+[15Apr2025 18:44:28.053] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:44:28.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:44:28.077] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:44:28.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:44:46.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:44:46.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:44:46.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:44:46.253] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[15Apr2025 18:45:29.054] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:29.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:45:29.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:45:29.468] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:45:29.468] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:45:29.468] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:45:29.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:45:29.468] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:29.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:30.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:30.601] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:30.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:45:30.624] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:49.605] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:45:50.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:45:50.602] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:50.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:51.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
+[15Apr2025 18:45:51.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0
+[15Apr2025 18:45:51.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:51.691] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:51.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:45:51.753] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:45:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 5)]
+[15Apr2025 18:46:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 13)]
+[15Apr2025 18:46:28.834] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:46:28.874] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:46:29.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:46:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo has made the advancement [Ollie Up]
+[15Apr2025 18:46:46.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:46:46.970] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:46:46.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:46:46.990] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:46:59.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 61)]
+[15Apr2025 18:47:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo has made the advancement [Can You Kick It?]
+[15Apr2025 18:47:30.205] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:47:30.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:47:30.249] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:30.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:31.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:31.291] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:31.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:47:31.317] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:50.351] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:47:50.383] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:50.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:51.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:51.447] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:51.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:47:51.502] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:47:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Adventure Mode]
+[15Apr2025 18:47:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[15Apr2025 18:47:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[15Apr2025 18:48:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 5)]
+[15Apr2025 18:48:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 5)]
+[15Apr2025 18:48:30.640] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:30.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:48:30.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:48:30.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:48:30.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:48:30.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:48:30.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:48:30.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:30.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:31.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:31.776] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:31.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:48:31.802] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:40.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Hot Stuff]
+[15Apr2025 18:48:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 6)]
+[15Apr2025 18:48:50.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:50.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:48:50.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:48:50.785] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:48:50.785] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:48:50.785] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:48:50.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:48:50.785] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:50.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:51.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:51.867] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:51.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:48:51.888] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:48:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 13)]
+[15Apr2025 18:49:31.066] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:49:31.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:49:31.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:31.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:32.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:32.159] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:32.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:49:32.180] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:52.151] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:49:53.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:49:53.198] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:53.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:54.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:54.237] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:49:54.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:49:54.259] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:50:31.403] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:50:31.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of afeae46b-0920-3665-9184-7745724e017e to disconnected: {disabled=true, disconnected=true, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:50:32.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:50:33.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:50:33.529] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo to connected: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:50:33.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:50:33.552] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo: {disabled=true, disconnected=false, uuid=afeae46b-0920-3665-9184-7745724e017e, name=Momo, group=null}
+[15Apr2025 18:50:51.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Bayville v9.0
+[15Apr2025 18:50:51.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Bayville v9.0

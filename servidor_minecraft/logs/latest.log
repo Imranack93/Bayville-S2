@@ -415,3 +415,132 @@ Missing minecraft:entity_type:
 [15Apr2025 18:40:25.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
 [15Apr2025 18:40:25.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
 [15Apr2025 18:40:25.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:40:46.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:40:46.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:41:25.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:41:25.953] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:41:25.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:41:26.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:27.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:27.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:41:30.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notch lost connection: Disconnected
+[15Apr2025 18:41:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notch left the game
+[15Apr2025 18:41:30.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Notch
+[15Apr2025 18:41:31.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/636, l='ServerLevel[Bayville v9.0]', x=-118.50, y=15.00, z=51.50] died, message: 'Villager was killed'
+[15Apr2025 18:41:31.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/638, l='ServerLevel[Bayville v9.0]', x=-125.50, y=20.00, z=37.50] died, message: 'Villager was killed'
+[15Apr2025 18:41:47.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:41:47.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:41:47.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:41:47.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:48.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:41:48.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:42:27.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:42:27.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:42:27.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:42:28.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:42:28.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:42:47.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:42:47.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:42:47.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:22.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:22.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:43:28.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Notch[/127.211.233.109:57835] logged in with entity id 699 at (-136.79661234075704, 15.0, 69.05296458502458)
+[15Apr2025 18:43:28.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notch joined the game
+[15Apr2025 18:43:30.907] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Notch (18)
+[15Apr2025 18:43:30.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Notch
+[15Apr2025 18:43:36.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b50ad385-829d-3141-a216-7e7d7539ba7f
+[15Apr2025 18:43:37.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b50ad385-829d-3141-a216-7e7d7539ba7f
+[15Apr2025 18:43:37.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Notch (b50ad385-829d-3141-a216-7e7d7539ba7f) successfully connected to voice chat
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:43:48.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b50ad385-829d-3141-a216-7e7d7539ba7f timed out
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Notch
+[15Apr2025 18:43:48.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Notch
+[15Apr2025 18:43:48.857] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:49.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b50ad385-829d-3141-a216-7e7d7539ba7f
+[15Apr2025 18:43:49.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:43:49.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:44:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo has made the advancement [Let's Roll]
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:44:28.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:44:28.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:44:28.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:44:46.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:44:46.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:45:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[15Apr2025 18:45:29.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:45:29.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:45:29.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:45:29.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:30.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:30.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:45:50.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:45:50.602] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:45:50.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:51.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:45:51.691] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:45:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 5)]
+[15Apr2025 18:46:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 13)]
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:46:28.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:46:29.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:46:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo has made the advancement [Ollie Up]
+[15Apr2025 18:46:46.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:46:46.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:46:59.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Triggered [tr] (set value to 61)]
+[15Apr2025 18:47:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo has made the advancement [Can You Kick It?]
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:47:30.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:47:30.249] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:47:30.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:31.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:31.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:47:50.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:47:50.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:51.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:47:51.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:47:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Adventure Mode]
+[15Apr2025 18:47:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[15Apr2025 18:47:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[15Apr2025 18:48:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 5)]
+[15Apr2025 18:48:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 5)]
+[15Apr2025 18:48:30.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:48:30.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:48:30.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:48:30.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:31.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:31.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:48:40.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack has made the advancement [Hot Stuff]
+[15Apr2025 18:48:47.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 6)]
+[15Apr2025 18:48:50.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:48:50.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:48:50.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:48:50.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:51.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:48:51.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:48:58.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Momo: Triggered [tr] (set value to 13)]
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:49:31.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:49:31.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:49:31.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:32.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:32.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:49:53.197] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:49:53.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:49:53.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:54.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:49:54.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
+[15Apr2025 18:50:31.444] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player afeae46b-0920-3665-9184-7745724e017e timed out
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Momo
+[15Apr2025 18:50:31.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Momo
+[15Apr2025 18:50:32.527] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:50:33.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player afeae46b-0920-3665-9184-7745724e017e
+[15Apr2025 18:50:33.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo (afeae46b-0920-3665-9184-7745724e017e) successfully connected to voice chat
