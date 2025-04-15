@@ -1,11 +1,41 @@
 {
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-15 18:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-04-15 18:38:56 +0000"
+    },
+    "done": false
+  },
   "mts:rtfm": {
     "criteria": {
       "manual": "2025-04-15 18:38:58 +0000"
     },
     "done": true
   },
+  "mts:root": {
+    "criteria": {
+      "crafting": "2025-04-15 18:38:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-15 18:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-15 18:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-15 18:41:11 +0000"
     },
@@ -23,9 +53,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "iwannaskate:iwannaskate/trick_kickflip": {
     "criteria": {
-      "unlock_right_away": "2025-04-15 18:38:55 +0000"
+      "item_criteria": "2025-04-15 18:47:11 +0000"
     },
     "done": true
   },
@@ -35,33 +65,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_emerald": "2025-04-15 18:41:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-04-15 18:41:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-04-15 18:38:56 +0000"
-    },
-    "done": false
-  },
-  "iwannaskate:iwannaskate/trick_kickflip": {
-    "criteria": {
-      "item_criteria": "2025-04-15 18:47:11 +0000"
-    },
-    "done": true
-  },
-  "mts:root": {
-    "criteria": {
-      "crafting": "2025-04-15 18:38:58 +0000"
+      "has_sunflower": "2025-04-15 18:55:30 +0000"
     },
     "done": true
   },
