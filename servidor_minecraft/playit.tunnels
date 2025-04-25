@@ -56,16 +56,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "poker-terrain.gl.at.ply.gg",
+          "assigned_domain": "just-mercy.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "caac598e-793e-4f95-9c32-28e136d98631",
+          "id": "910c3cd8-c614-4381-8fd7-b375dd32406c",
           "ip_hostname": "27.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 2432,
-          "port_start": 2431,
+          "port_end": 2759,
+          "port_start": 2758,
           "region": "global",
           "static_ip4": "147.185.221.27",
           "static_ip6": "2602:fbaf:0:1::1b",
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-04-14T17:43:11.952787Z",
+      "created_at": "2025-04-16T12:51:25.216406Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "894bae57-e9ee-4bd3-bb44-a23e795148d0",
+      "id": "35cdf6b5-46fc-4a12-b411-8abf776e4042",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "d15fd9db-129a-4c60-9020-4e23c6cf5494",
           "agent_name": "from-key-ce87",
           "local_ip": "127.0.0.1",
-          "local_port": 2431
+          "local_port": 2758
         },
         "type": "agent"
       },
